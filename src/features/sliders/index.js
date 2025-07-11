@@ -1,5 +1,0 @@
-export * from "./home-slider"
-export * from "./home-catagory-slider"
-export * from "./home-trending-products"
-export * from "./customer-feedbacslider"
-export * from "./new-trending-slider"
