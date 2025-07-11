@@ -1,0 +1,6 @@
+export * from "./components/product-catagory"
+export * from "./components/product-trending"
+export * from "./components/new-arrivals"
+export * from "./components/become-seller"
+export * from "./components/top-selling"
+export * from "./components/all-products"
